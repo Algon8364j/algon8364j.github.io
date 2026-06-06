@@ -9,7 +9,8 @@
 * 🕊️ [Spiritual Progression & Alignment](./spiritual.html)
 * 💼 [Professional Growth & Ethical Alternative](./professional.html)
 * 🛠️ [IT Project Refinement & Peer Review](./project-report.html)
-
+* 📊 [Week 5: Usability Testing & Design Enhancements](./usability.html)
+* 🧘 [Week 5: Spiritual Integration & Ethical Reflection](./mindfulness.html)
 ---
 
 ## 📹 Part 1: Video Response Script
