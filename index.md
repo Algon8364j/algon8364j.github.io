@@ -12,7 +12,7 @@
 * 📊 [Week 5: Usability Testing & Design Enhancements](./usability.html)
 * 🧘 [Week 5: Spiritual Integration & Ethical Reflection](./mindfulness.html)
 * 🏁 [Week 6: Finalization, Peer Reports, & Action Plan](./finalization.html)
-*     Final_Portfolio.pptx.html
+*    [Synthesis of Technical Mastery and Spiritual Discipleship](./Final_Portfolio.pptx.html)
   
 ---
 
