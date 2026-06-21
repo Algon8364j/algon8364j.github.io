@@ -13,7 +13,6 @@
 * 🧘 [Week 5: Spiritual Integration & Ethical Reflection](./mindfulness.html)
 * 🏁 [Week 6: Finalization, Peer Reports, & Action Plan](./finalization.html)
 *    [Synthesis of Technical Mastery and Spiritual Discipleship](./Final_Portfolio.pptx.html)
-* 🏁[Week 6: Finalization, Peer Reports, & Action Plan](./finalization.html)
 * 🚀[Week 7: Postcourse Assessment & Community Reflections](./what-next.html)
   
 ---
